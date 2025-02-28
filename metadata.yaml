@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8054'
     url: http://www.gutenberg.org/2009/agents/8054
     wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Hahl
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Deledda, Grazia
@@ -23,6 +26,8 @@ creator:
     - https://it.wikipedia.org/wiki/Grazia_Deledda
     - https://en.wikipedia.org/wiki/Grazia_Deledda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75140#Pako-Egyptiin-b-Romaani
 gutenberg_issued: '2025-01-29'
 gutenberg_type: Text
 identifiers:
